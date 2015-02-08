@@ -13,7 +13,7 @@
     "debug": "0.7.4",
     "msgpack-js": "0.3.0",
     "redis": "0.10.1",
-    "socket.io-adapter": "^0.3.1",
+    "socket.io-adapter": "cha0s/socket.io-adapter#shrub",
     "uid2": "0.0.3"
   },
   "devDependencies": {
